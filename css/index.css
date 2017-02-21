@@ -98,6 +98,7 @@ img{
 .img-buttom{
     padding:2% 0 3% 0;
     position: relative;
+    overflow: hidden;
 }
 @-webkit-keyframes rotate {
   0%,
